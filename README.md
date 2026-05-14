@@ -4,6 +4,9 @@ Building a personal library of Apple design best practices through Human Interfa
 ## Learning Method
 
 This repository is more than just notes. Each concept is documented in a practical and reusable way to make learning objective, consistent, and easy to revisit.
+
+From memorizing Apple rules to understanding Apple’s design thinking.
+
 Each study may include:
 - Short explanation
 - HIG recommendation
