@@ -19,6 +19,11 @@ Each study may include:
 apple-hig-practice/
 │
 ├── Foundations/
+|   ├──app-icons.md
+|   ├──color.md
+|   ├──dark-mode.md
+|   ├──icons.md
+|   └──sf-symbols.md
 ├── Patterns/
 ├── Components/
 ├── Inputs/
